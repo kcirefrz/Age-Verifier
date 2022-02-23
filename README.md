@@ -42,6 +42,7 @@
 
  # Features
 + [x] Home Page
++ [x] Responsive Page
 + [x] Men Photo Alternation
 + [x] Women Photo Alternation
 
