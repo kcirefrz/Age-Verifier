@@ -28,7 +28,7 @@
 ## Preview
 ### Home Page
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/79349878/155243797-7f4da90b-cefc-4d13-b8d8-3b5e2c021805.png">
+  <img src="https://user-images.githubusercontent.com/79349878/155262550-c2c1d843-8564-4c3c-8cdc-3b7364bcace0.png">
 </div>
 
 # Technologies
